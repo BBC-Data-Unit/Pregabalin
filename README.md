@@ -1,6 +1,6 @@
 # Pregabalin: Spending on 'new valium' greater in north
 
-![]9https://raw.githubusercontent.com/BBC-Data-Unit/Pregabalin/master/Pregabalin%20%20Spending%20on%20%20new%20valium%20%20greater%20in%20north%20%20%20BBC%20News.png)
+![](https://raw.githubusercontent.com/BBC-Data-Unit/Pregabalin/master/Pregabalin%20%20Spending%20on%20%20new%20valium%20%20greater%20in%20north%20%20%20BBC%20News.png)
 
 In October 2017 we [reported](http://www.bbc.co.uk/news/uk-england-41441857) that prescribing rates for a valium-like drug linked to 111 deaths in a year varied widely across England.
 
